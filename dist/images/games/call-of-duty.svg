@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" fill="none">
+  <defs>
+    <linearGradient id="codGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#1a1a1a"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <radialGradient id="codGlow" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#ffd700"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="800" rx="24" fill="url(#codGrad)"/>
+  <circle cx="300" cy="260" r="200" fill="url(#codGlow)"/>
+  <path d="M300 300 L360 420 L240 420 Z" fill="#ffd700"/>
+  <path d="M270 440 L330 440 L300 520 Z" fill="#ffd700"/>
+  <rect x="240" y="540" width="120" height="8" rx="4" fill="#ffd700"/>
+  <text x="300" y="600" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="2">CALL OF</text>
+  <text x="300" y="645" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="2">DUTY</text>
+  <text x="300" y="710" font-family="Arial, sans-serif" font-size="17" fill="#a5b4fc" text-anchor="middle">Available on PS5</text>
+</svg>

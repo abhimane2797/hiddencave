@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" fill="none">
+  <defs>
+    <linearGradient id="tekkenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#1a0a1a"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <radialGradient id="tekkenGlow" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#ff00ff"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="800" rx="24" fill="url(#tekkenGrad)"/>
+  <circle cx="300" cy="280" r="200" fill="url(#tekkenGlow)"/>
+  <path d="M220 380 Q300 260 380 380 Q420 460 300 480 Q180 460 220 380" fill="#ff00ff" opacity="0.85"/>
+  <text x="300" y="580" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="2">TEKKEN</text>
+  <text x="300" y="625" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#ff00ff" text-anchor="middle">8</text>
+  <text x="300" y="685" font-family="Arial, sans-serif" font-size="17" fill="#a5b4fc" text-anchor="middle">Available on PS5</text>
+</svg>

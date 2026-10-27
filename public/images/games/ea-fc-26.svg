@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" fill="none">
+  <defs>
+    <linearGradient id="fcGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="50%" stop-color="#16213e"/>
+      <stop offset="100%" stop-color="#0f3460"/>
+    </linearGradient>
+    <radialGradient id="fcGlow" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#3b7dff"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="800" rx="24" fill="url(#fcGrad)"/>
+  <circle cx="300" cy="240" r="200" fill="url(#fcGlow)"/>
+  <path d="M300 280 L340 360 L260 360 Z" fill="#3b7dff"/>
+  <path d="M280 380 L320 380 L300 440 Z" fill="#8b5cf6"/>
+  <rect x="220" y="480" width="160" height="14" rx="7" fill="#22d3ee"/>
+  <rect x="220" y="505" width="160" height="14" rx="7" fill="#22d3ee"/>
+  <text x="300" y="640" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">EA SPORTS</text>
+  <text x="300" y="690" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#3b7dff" text-anchor="middle">FC 26</text>
+  <text x="300" y="740" font-family="Arial, sans-serif" font-size="18" fill="#a5b4fc" text-anchor="middle">Available on PS5</text>
+</svg>

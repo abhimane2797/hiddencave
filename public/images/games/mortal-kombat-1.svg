@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" fill="none">
+  <defs>
+    <linearGradient id="mkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#1a1a1a"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <radialGradient id="mkGlow" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ff00ff"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="800" rx="24" fill="url(#mkGrad)"/>
+  <circle cx="300" cy="280" r="200" fill="url(#mkGlow)"/>
+  <path d="M300 340 Q360 400 340 480 Q320 520 300 500 Q280 520 260 480 Q240 400 300 340" fill="#ff00ff" opacity="0.9"/>
+  <text x="300" y="580" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="3">MORTAL</text>
+  <text x="300" y="625" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="3">KOMBAT</text>
+  <text x="300" y="670" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#ff00ff" text-anchor="middle">1</text>
+  <text x="300" y="730" font-family="Arial, sans-serif" font-size="17" fill="#a5b4fc" text-anchor="middle">Available on PS5</text>
+</svg>
